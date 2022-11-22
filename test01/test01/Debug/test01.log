@@ -1,0 +1,5 @@
+﻿  test1.c
+F:\TestCode\test01\test01\test1.c(89,16): warning C4013: “rand”未定义；假设外部返回 int
+F:\TestCode\test01\test01\test1.c(118,7): warning C4013: “srand”未定义；假设外部返回 int
+F:\TestCode\test01\test01\test1.c(118,26): warning C4013: “time”未定义；假设外部返回 int
+  test01.vcxproj -> F:\TestCode\test01\Debug\test01.exe
