@@ -1,0 +1,3 @@
+﻿  test.c
+F:\TestCode\game1\game1\test.c(15,12): warning C4013: “PlayerMove”未定义；假设外部返回 int
+  game1.vcxproj -> F:\TestCode\game1\Debug\game1.exe
